@@ -14,4 +14,3 @@ Neste portefólio encontram-se abordados os seguintes temas:
 - Blast
 - Motifs
 - Análise filogenética
-- Alinhamentos multiplos
